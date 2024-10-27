@@ -1,7 +1,7 @@
 # Steganography
 This project implements digital Least Significant Bit (LSB) steganography to hide secret data within a .bmp image file using C programming. By subtly altering the least significant bits of the image pixels, this technique embeds data without noticeable changes to the image's appearance, making it ideal for secure and unobtrusive data storage.
 
-some key features Steganography project are as follows,
+Some key features Steganography project are as follows,
 
 1. Conceal Any Data Format: Embed a variety of data types, such as text files, images, or other binary data, within the .bmp image.
 2. Command-Line Interface: Provides straightforward command-line options to specify the image file, secret data, and output file.
